@@ -1,0 +1,23 @@
+.head {
+	background-color: grey;
+	text-align: right;
+	color: white;
+}
+
+.pad {
+	background-color: lightgrey;
+	text-align: center;
+	border: 0.2px solid grey;
+	border-left: none;
+	border-top: none;
+}
+
+.signs {
+	background-color: orange;
+	color: white;
+	text-align: center;
+	border: 0.2px solid grey;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+}
